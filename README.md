@@ -1,7 +1,17 @@
 # Galacticraft_Survival_2 Main Branch
-Repository for backups of Galacticraft_Survival_2 modded survival world.
 
-Go to a different branch (drop-down menu on the top left) to select the Galacticraft_Survival_2 world.
+Custom Galacticraft "Modpack" World V2
 
-After that, go to Code>Download ZIP to get a zipped file with the world folder inside of it.
-(The world folder ITSELF that you use should be in the same folder as a README.md file)
+To download, go to Code>Download ZIP to get a zipped file with the world folder inside of it. (The world folder ITSELF that you use should be in the same folder as a README.md file)
+
+**First Played:** Started December 2023 on 1.12.2 Modded Forge
+
+**Last Played:** December 27, 2023
+
+**Minecraft Version:** Modded 1.12.2 Forge
+
+**World Size:** 4.33 GB
+
+**Mods Link:** https://github.com/Toberone-Tuna/Minecraft-Mods/tree/1.12.2-Custom_Galacticraft_Mods_V2
+
+**Note:** The world may not fully download through the web browser due to the large size. If the world size after unzipping is not equal to 4.38 GB, it is not the full world. In that case, you will have to use GitHub Desktop or another Git program to clone the repository.
