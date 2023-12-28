@@ -1,0 +1,56 @@
+{
+  "mod_lavacow:mod_lavacow/root": {
+    "criteria": {
+      "tick": "2023-12-27 15:44:15 -0500"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2023-12-27 15:44:15 -0500"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2023-12-27 15:44:15 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2023-12-27 15:44:15 -0500"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2023-12-27 15:44:15 -0500"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-12-27 15:44:15 -0500"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2023-12-27 15:44:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-27 15:44:15 -0500"
+    },
+    "done": false
+  },
+  "roots:root": {
+    "criteria": {
+      "auto": "2023-12-27 15:44:15 -0500"
+    },
+    "done": true
+  }
+}
