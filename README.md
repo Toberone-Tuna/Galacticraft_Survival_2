@@ -6,11 +6,11 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 
 **First Played:** Started December 2023 on 1.12.2 Modded Forge
 
-**Last Played:** December 31, 2023
+**Last Played:** January 13, 2024
 
 **Minecraft Version:** Modded 1.12.2 Forge
 
-**World Size:** 6.43 GB
+**World Size:** 7.34 GB
 
 **Mods Link:** https://github.com/Toberone-Tuna/Minecraft-Mods/tree/1.12.2-Custom_Galacticraft_Mods_V2
 
