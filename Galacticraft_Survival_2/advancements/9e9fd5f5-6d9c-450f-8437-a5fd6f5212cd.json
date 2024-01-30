@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-01-25 00:30:09 +0000"
+    },
+    "done": true
+  },
   "buildcraftenergy:engine": {
     "criteria": {
       "strirling_engine": "2024-01-01 03:46:06 +0000"
@@ -112,6 +118,12 @@
       "has_glass": "2023-12-29 06:20:22 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "scale": "2024-01-19 01:33:58 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
@@ -239,6 +251,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_t1": {
+    "criteria": {
+      "rocket_crafted": "2024-01-18 04:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2023-12-29 04:07:51 +0000"
@@ -305,6 +323,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2024-01-18 04:38:27 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-01-15 23:17:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-12-29 04:07:51 +0000"
@@ -359,9 +389,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-01-21 21:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2023-12-29 04:07:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/twilight_scepter": {
+    "criteria": {
+      "scepter": "2024-01-19 01:33:17 +0000"
     },
     "done": true
   },
@@ -371,9 +413,21 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/compressor": {
+    "criteria": {
+      "compressor": "2024-01-17 22:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2023-12-29 02:14:11 +0000"
+    },
+    "done": true
+  },
+  "abyssalcraft:shadow_gems": {
+    "criteria": {
+      "necronomicon": "2024-01-19 02:00:32 +0000"
     },
     "done": true
   },
@@ -413,6 +467,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/scepters": {
+    "criteria": {
+      "0": "2024-01-19 01:33:17 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/scrolls": {
     "criteria": {
       "criteria_0": "2023-12-31 02:05:38 +0000"
@@ -434,6 +494,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-29 06:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-01-25 00:30:09 +0000"
     },
     "done": true
   },
@@ -521,6 +587,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_wendigo": {
+    "criteria": {
+      "kill_undertaker": "2024-01-14 23:39:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2023-12-29 05:27:50 +0000"
@@ -530,6 +602,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-12-29 06:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-01-19 02:55:53 +0000"
     },
     "done": true
   },
@@ -617,6 +695,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_zombiepiranha": {
+    "criteria": {
+      "kill_zombiepiranha": "2024-01-21 04:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-12-29 02:39:37 +0000"
@@ -662,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-01-21 20:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2023-12-29 05:21:22 +0000"
@@ -704,6 +794,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/naga_armor_set": {
+    "criteria": {
+      "ingredient": "2024-01-19 01:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-01-05 22:35:40 +0000"
@@ -722,9 +818,27 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/tools/gold_pendant": {
+    "criteria": {
+      "has_gold": "2024-01-15 23:17:13 +0000"
+    },
+    "done": true
+  },
   "buildcraftcore:root": {
     "criteria": {
       "has_stick": "2023-12-29 02:14:13 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/iron_ring": {
+    "criteria": {
+      "has_iron": "2024-01-16 23:40:44 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/electric_compressor": {
+    "criteria": {
+      "electric_compressor": "2024-01-17 22:39:46 +0000"
     },
     "done": true
   },
@@ -794,6 +908,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/compat/ie_shaders": {
+    "criteria": {
+      "tf_shader": "2024-01-19 01:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-01-05 22:35:40 +0000"
@@ -833,6 +953,12 @@
   "mod_lavacow:mod_lavacow/kill_zombiefrozen": {
     "criteria": {
       "kill_zombiefrozen": "2024-01-11 02:49:45 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/misc/red_cape": {
+    "criteria": {
+      "has_red_wool": "2024-01-21 00:32:56 +0000"
     },
     "done": true
   },
@@ -932,9 +1058,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-01-21 21:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2023-12-29 02:03:09 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/misc/white_cape": {
+    "criteria": {
+      "has_white_wool": "2024-01-17 00:43:20 +0000"
     },
     "done": true
   },
@@ -1016,6 +1154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-01-20 03:09:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2023-12-29 02:01:11 +0000"
@@ -1037,6 +1181,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2023-12-29 23:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-01-21 21:03:51 +0000"
     },
     "done": true
   },
@@ -1112,6 +1262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-01-21 20:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2023-12-29 05:06:56 +0000"
@@ -1121,6 +1277,12 @@
   "appliedenergistics2:main/presses": {
     "criteria": {
       "logic": "2023-12-31 03:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-19 00:56:25 +0000"
     },
     "done": true
   },
@@ -1145,6 +1307,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2023-12-29 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-20 03:09:17 +0000"
     },
     "done": true
   },
@@ -1257,6 +1425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-01-19 00:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-12-29 02:15:36 +0000"
@@ -1296,6 +1470,12 @@
   "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-01-05 22:35:40 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2024-01-18 21:58:16 +0000"
     },
     "done": true
   },
@@ -1353,6 +1533,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_ptera": {
+    "criteria": {
+      "kill_ptera": "2024-01-23 23:32:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2023-12-29 02:03:46 +0000"
@@ -1401,6 +1587,12 @@
     },
     "done": true
   },
+  "abyssalcraft:mine_abyssal_ores": {
+    "criteria": {
+      "gold": "2024-01-17 00:11:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
       "has_melon": "2024-01-02 22:49:29 +0000"
@@ -1431,6 +1623,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-20 03:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-01-15 05:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2023-12-29 02:37:59 +0000"
@@ -1458,6 +1662,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2024-01-02 23:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-25 00:30:09 +0000"
     },
     "done": true
   },
@@ -1494,6 +1704,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2023-12-31 05:22:50 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/misc/saddle": {
+    "criteria": {
+      "has_leather": "2024-01-15 23:17:09 +0000"
     },
     "done": true
   },
@@ -1539,6 +1755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-01-19 00:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2023-12-29 02:37:59 +0000"
@@ -1548,6 +1770,18 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-01-01 03:53:13 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-01-17 00:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-01-20 03:09:17 +0000"
     },
     "done": true
   },
@@ -1623,6 +1857,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/gold_gloves": {
+    "criteria": {
+      "has_gold": "2024-01-15 23:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2023-12-29 02:14:11 +0000"
@@ -1659,6 +1899,18 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/advanced_solar": {
+    "criteria": {
+      "advanced_solar": "2024-01-17 23:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-01-15 05:20:48 +0000"
+    },
+    "done": true
+  },
   "cfm:minekea": {
     "criteria": {
       "get_chair_or_table": "2023-12-30 08:08:50 +0000"
@@ -1687,6 +1939,7 @@
     "criteria": {
       "cooked_porkchop": "2023-12-31 02:55:56 +0000",
       "apple": "2023-12-30 03:12:34 +0000",
+      "potato": "2024-01-20 22:40:18 +0000",
       "raw_salmon": "2023-12-29 03:56:56 +0000",
       "rotten_flesh": "2023-12-29 02:15:31 +0000",
       "carrot": "2024-01-02 23:04:03 +0000"
@@ -1696,6 +1949,12 @@
   "twilightforest:alt/biomes/general_biomes": {
     "criteria": {
       "5": "2023-12-31 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/basic_wafer": {
+    "criteria": {
+      "compressor": "2024-01-17 22:32:45 +0000"
     },
     "done": true
   },
@@ -1735,6 +1994,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_sapling": "2024-01-19 01:33:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2023-12-29 02:37:59 +0000"
@@ -1747,9 +2012,21 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron_ingot": "2024-01-16 23:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-12-29 02:19:10 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/rocket_workbench": {
+    "criteria": {
+      "rocket_workbench": "2024-01-17 23:27:48 +0000"
     },
     "done": true
   },
@@ -1807,6 +2084,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/coal_generator": {
+    "criteria": {
+      "coal_generator": "2024-01-17 22:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2023-12-29 04:20:58 +0000"
@@ -1858,6 +2141,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2023-12-29 05:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-01-21 20:48:45 +0000"
     },
     "done": true
   },
@@ -1981,6 +2270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-01-25 00:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2023-12-29 06:20:22 +0000"
@@ -2071,6 +2366,18 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/tools/iron_pendant": {
+    "criteria": {
+      "has_iron": "2024-01-16 23:40:44 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/circuit_fabricator": {
+    "criteria": {
+      "circuit_fabricator": "2024-01-17 22:14:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-01-01 03:10:22 +0000"
@@ -2110,6 +2417,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2023-12-29 05:06:56 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-01-16 00:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-01-19 00:56:25 +0000"
     },
     "done": true
   },
@@ -2173,6 +2492,12 @@
     },
     "done": true
   },
+  "abyssalcraft:mine_dreadlands_ores": {
+    "criteria": {
+      "abyssalnite": "2024-01-15 02:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2023-12-30 03:36:16 +0000"
@@ -2188,6 +2513,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2023-12-30 03:38:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-01-19 00:56:25 +0000"
     },
     "done": true
   },
@@ -2230,6 +2561,12 @@
   "cfm:all_clean": {
     "criteria": {
       "player_shower": "2024-01-04 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-01-17 00:43:20 +0000"
     },
     "done": true
   },
@@ -2306,6 +2643,18 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/click_gui_button_fulfill": {
+    "criteria": {
+      "click_gui_button_fulfill": "2024-01-19 00:57:01 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network_tool": {
+    "criteria": {
+      "network_tool": "2024-01-15 02:01:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2024-01-04 02:34:54 +0000"
@@ -2326,7 +2675,9 @@
   },
   "midnight:midnight/surface_biomes": {
     "criteria": {
-      "biome7": "2023-12-29 02:55:50 +0000"
+      "biome6": "2024-01-23 23:26:52 +0000",
+      "biome7": "2023-12-29 02:55:50 +0000",
+      "biome1": "2024-01-22 00:56:28 +0000"
     },
     "done": false
   },
@@ -2351,6 +2702,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2023-12-29 06:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-01-25 00:30:09 +0000"
     },
     "done": true
   },
@@ -2408,6 +2765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-01-15 05:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-12-29 05:27:50 +0000"
@@ -2456,6 +2819,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/advanced_wafer": {
+    "criteria": {
+      "compressor": "2024-01-17 22:38:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2023-12-31 02:34:13 +0000"
@@ -2477,6 +2846,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-12-29 05:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2024-01-19 03:10:47 +0000"
     },
     "done": true
   },
@@ -2504,6 +2879,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/tools/gold_ring": {
+    "criteria": {
+      "has_gold": "2024-01-15 23:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-01-01 03:09:44 +0000"
@@ -2525,6 +2906,12 @@
   "immersiveengineering:main/root": {
     "criteria": {
       "hold_manual": "2024-01-05 22:21:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "1": "2024-01-19 01:33:58 +0000"
     },
     "done": true
   },
@@ -2618,6 +3005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-01-19 00:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2023-12-29 04:07:51 +0000"
@@ -2663,6 +3056,12 @@
   "cfm:appliance_city": {
     "criteria": {
       "place_appliance": "2023-12-30 07:51:28 +0000"
+    },
+    "done": true
+  },
+  "rftools:clearvision": {
+    "criteria": {
+      "placed_screen": "2024-01-20 03:23:15 +0000"
     },
     "done": true
   },
@@ -2755,6 +3154,13 @@
       "has_diamond": "2023-12-29 05:27:50 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "twilight_scepter": "2024-01-19 01:33:17 +0000",
+      "trophy": "2024-01-20 22:39:18 +0000"
+    },
+    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
